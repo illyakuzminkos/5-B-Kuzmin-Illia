@@ -1,5 +1,4 @@
 from turtle import*
-
 width(2)
 goto(-40,50)
 goto(120,50)
@@ -11,7 +10,6 @@ down()
 goto(40,130)
 goto(70,95)
 goto(40,60)
-
 up()
 goto(250,0)
 down()
@@ -42,8 +40,6 @@ up()
 goto(100,5)
 down()
 goto(140,5)
-
-
 up()
 goto(115,20)
 down()
