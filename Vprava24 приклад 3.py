@@ -1,0 +1,17 @@
+from turtle import*
+
+width(2)
+circle(50)
+up()
+goto(-20,60)
+down()
+dot(20)
+up()
+goto(20,60)
+down()
+dot(20)
+up()
+goto(20,40)
+left(90)
+down()
+circle(20,-160)
